@@ -1,0 +1,17 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Energia renovable",
+        "price": 60.00,
+        "image": "/images/icono-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Electricidad",
+        "price": 60.00,
+        "image": "/images/icono-2.png"
+      },
+   
+    ]
+  }
